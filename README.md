@@ -11,13 +11,13 @@ python3 package.py --infile='vgsales.csv' --limit=500 --fields='gameinfo'
 
 
 --key:<br/>
-  Users can specify an App key that is required to access the database. If no keys are provided, the script will search based on my key, which has a limit on items returned per query, and a monthly query quota.<br/><br/>
+  Users can specify an App key that is required to access the database. If no keys are provided, the script will search based on my key,     which has a limit on items returned per query, and a monthly query quota.<br/><br/>
 
 
 --fields:<br/>
-  Specifies which types of data to retrieve. Possible values are:
-    'gameinfo': which corresponds to the basic info of a game
-    'gameart': Art related data, such as cover photo
+  Specifies which types of data to retrieve. Possible values are:<br/>
+    'gameinfo': which corresponds to the basic info of a game<br/>
+    'gameart': Art related data, such as cover photo<br/>
     'sideinfo': Information tangent to the game itself, such as the number of followers on IGDB, etc.<br/><br/>
 
 
