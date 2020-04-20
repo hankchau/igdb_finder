@@ -25,6 +25,10 @@ python3 package.py --infile='vgsales.csv' --limit=500 --fields='gameinfo'
   The upper limit of the number of entries returned from the query.<br/><br/>
 
 
+Files:
+vgsales.csv: Sample input file.<br/>
+Others: Sample of output file.<br/>
+
 Note:
   package.py uses the external library Pandas.<br/><br/>
 
