@@ -7,7 +7,7 @@ python3 package.py --infile='vgsales.csv' --limit=500 --fields='gameinfo'
 ```
 
 --infile:
-    A required argument that specifies a csv input file that includes a list of game titles to be searched for.  
+    A required argument that specifies a csv input file that includes a list of game titles to be searched for.<br/>
 
 
 --key:
