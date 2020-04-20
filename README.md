@@ -29,5 +29,5 @@ Note:
   package.py uses the external library Pandas.<br/><br/>
 
 
-## Link to Dev Blog:
-https://www.projectzeta.org/blog
+### Link to Dev Blog:
+--https://www.projectzeta.org/blog
