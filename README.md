@@ -5,12 +5,12 @@ A simple script for retrieving game information from IGDB's API. Easy to pick up
 ```
 python3 package.py --infile='vgsales.csv' --limit=500 --fields='gameinfo'
 ```
-
---infile:<br/>
-  A required argument that specifies a csv input file that includes a list of game titles to be searched for.<br/><br/>
   Files:<br/>
 vgsales.csv: Sample input file.<br/>
 Others: Sample of output file.<br/>
+
+--infile:<br/>
+  A required argument that specifies a csv input file that includes a list of game titles to be searched for.<br/><br/>
 
 --key:<br/>
   Users can specify an App key that is required to access the database. If no keys are provided, the script will search based on my key,     which has a limit on items returned per query, and a monthly query quota.<br/><br/>
