@@ -1,5 +1,5 @@
-# IGDB
-A simple script for retrieving game information from IGDB's API.
+# IGDB Helper
+A simple script for retrieving game information from IGDB's API. Easy to pick up and use without studying the database schema in IGDB.
 
 ## package.py
 ```
